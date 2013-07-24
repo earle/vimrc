@@ -78,6 +78,7 @@ I recommend reading the docs of these plugins to understand them better. Each of
 ## What color schemes are included?
 
 * [peaksea](https://github.com/vim-scripts/peaksea): My favorite!
+* [badwolf](https://github.com/vim-scripts/badwolf): 
 * [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 * [vim-irblack](https://github.com/wgibbs/vim-irblack)
 * [mayansmoke](https://github.com/vim-scripts/mayansmoke)
