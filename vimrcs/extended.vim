@@ -10,7 +10,8 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set background=dark
 
-colorscheme peaksea
+colorscheme solarized
+"colorscheme peaksea
 
 " Set font according to system
 if has("mac") || has("macunix")
